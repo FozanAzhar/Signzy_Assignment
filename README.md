@@ -1,5 +1,4 @@
-# Signzy_Assignment
-
+# Signzy_VehicleRC
 <b>Problem Statement:</b> You have a raw data of vehicles which contains various details like RTO details, Vehicle Basic details Maker Model details, Insurance & Financer details, Blacklisted & Challan details etc.
 
 1) Define User Personas of the owners of vehicle here using the available data. Use the existing columns to create more vairables which can define the user personas. Then, Do the segmentation of owners using user personas. Basically, what can be the broad categories in which we can put these owners.
